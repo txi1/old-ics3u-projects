@@ -1,0 +1,3 @@
+Hey ICS3U, Hope you had a nice weekend!
+How do you like file I/O so far?
+It will be a handy tool for our summatives.
